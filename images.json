@@ -4,10 +4,40 @@
       "id": 1,
       "name": "",
       "description": "",
-      "url": "",
+      "url": "https://raw.githubusercontent.com/jacekkoziol/mock-api-images/main/images/img-01.jpg",
       "sizes": {
-        "small": "",
-        "full": ""
+        "small": "https://raw.githubusercontent.com/jacekkoziol/mock-api-images/main/images/img-01-sm.jpg",
+        "full": "https://raw.githubusercontent.com/jacekkoziol/mock-api-images/main/images/img-01.jpg"
+      }
+    },
+    {
+      "id": 2,
+      "name": "",
+      "description": "",
+      "url": "https://raw.githubusercontent.com/jacekkoziol/mock-api-images/main/images/img-02.jpg",
+      "sizes": {
+        "small": "https://raw.githubusercontent.com/jacekkoziol/mock-api-images/main/images/img-02-sm.jpg",
+        "full": "https://raw.githubusercontent.com/jacekkoziol/mock-api-images/main/images/img-02.jpg"
+      }
+    },
+    {
+      "id": 3,
+      "name": "",
+      "description": "",
+      "url": "https://raw.githubusercontent.com/jacekkoziol/mock-api-images/main/images/img-03.jpg",
+      "sizes": {
+        "small": "https://raw.githubusercontent.com/jacekkoziol/mock-api-images/main/images/img-03-sm.jpg",
+        "full": "https://raw.githubusercontent.com/jacekkoziol/mock-api-images/main/images/img-03.jpg"
+      }
+    },
+    {
+      "id": 4,
+      "name": "",
+      "description": "",
+      "url": "https://raw.githubusercontent.com/jacekkoziol/mock-api-images/main/images/img-04.jpg",
+      "sizes": {
+        "small": "https://raw.githubusercontent.com/jacekkoziol/mock-api-images/main/images/img-04-sm.jpg",
+        "full": "https://raw.githubusercontent.com/jacekkoziol/mock-api-images/main/images/img-04.jpg"
       }
     }
   ]
