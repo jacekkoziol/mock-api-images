@@ -2,7 +2,7 @@
   "data": [
     {
       "id": 1,
-      "name": "",
+      "name": "New Zealand Lake Zea Hotel",
       "description": "",
       "url": "https://raw.githubusercontent.com/jacekkoziol/mock-api-images/main/images/img-01.jpg",
       "sizes": {
@@ -12,7 +12,7 @@
     },
     {
       "id": 2,
-      "name": "",
+      "name": "New Zealand Dock Habour",
       "description": "",
       "url": "https://raw.githubusercontent.com/jacekkoziol/mock-api-images/main/images/img-02.jpg",
       "sizes": {
@@ -22,7 +22,7 @@
     },
     {
       "id": 3,
-      "name": "",
+      "name": "New Zealand Mountain Side House",
       "description": "",
       "url": "https://raw.githubusercontent.com/jacekkoziol/mock-api-images/main/images/img-03.jpg",
       "sizes": {
@@ -32,7 +32,7 @@
     },
     {
       "id": 4,
-      "name": "",
+      "name": "New Zealand Bar Beach",
       "description": "",
       "url": "https://raw.githubusercontent.com/jacekkoziol/mock-api-images/main/images/img-04.jpg",
       "sizes": {
